@@ -1,0 +1,33 @@
+question_data = [
+    {"category": "Entertainment: Board Games", "type": "boolean", "difficulty": "easy",
+     "question": "Snakes and Ladders was originally created in India?", "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
+     "question": "The song 'Megalovania' by Toby Fox made its third appearence in the 2015 RPG 'Undertale'.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "History", "type": "boolean", "difficulty": "easy",
+     "question": "The Tiananmen Square protests of 1989 were held in Hong Kong.", "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"category": "History", "type": "boolean", "difficulty": "medium",
+     "question": "The first televised presidential debate was between Jimmy Carter and Gerald Ford.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Comics", "type": "boolean", "difficulty": "hard",
+     "question": "In the comic book 'Archie', Betty is friends with Veronica because she is rich.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Film", "type": "boolean", "difficulty": "easy",
+     "question": "In the original script of 'The Matrix', "
+                 "the machines used humans as additional computing power instead of batteries.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Geography", "type": "boolean", "difficulty": "easy", "question": "There are no deserts in Europe.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Science: Computers", "type": "boolean", "difficulty": "easy",
+     "question": "'HTML' stands for Hypertext Markup Language.", "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"category": "Mythology", "type": "boolean", "difficulty": "medium",
+     "question": "In Greek mythology, Hera is the goddess of harvest.",
+     "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"category": "General Knowledge", "type": "boolean", "difficulty": "easy",
+     "question": "The mitochondria is the powerhouse of the cell.", "correct_answer": "True",
+     "incorrect_answers": ["False"]}]
+
+# https://opentdb.com/
